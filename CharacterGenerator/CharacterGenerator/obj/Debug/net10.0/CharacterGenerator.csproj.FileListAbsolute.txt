@@ -1,0 +1,15 @@
+C:\Users\peter\Documents\GitHub\CSharpPlayground\CSharpPlayground\CharacterGenerator\CharacterGenerator\bin\Debug\net10.0\CharacterGenerator.exe
+C:\Users\peter\Documents\GitHub\CSharpPlayground\CSharpPlayground\CharacterGenerator\CharacterGenerator\bin\Debug\net10.0\CharacterGenerator.deps.json
+C:\Users\peter\Documents\GitHub\CSharpPlayground\CSharpPlayground\CharacterGenerator\CharacterGenerator\bin\Debug\net10.0\CharacterGenerator.runtimeconfig.json
+C:\Users\peter\Documents\GitHub\CSharpPlayground\CSharpPlayground\CharacterGenerator\CharacterGenerator\bin\Debug\net10.0\CharacterGenerator.dll
+C:\Users\peter\Documents\GitHub\CSharpPlayground\CSharpPlayground\CharacterGenerator\CharacterGenerator\bin\Debug\net10.0\CharacterGenerator.pdb
+C:\Users\peter\Documents\GitHub\CSharpPlayground\CSharpPlayground\CharacterGenerator\CharacterGenerator\obj\Debug\net10.0\CharacterGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\Documents\GitHub\CSharpPlayground\CSharpPlayground\CharacterGenerator\CharacterGenerator\obj\Debug\net10.0\CharacterGenerator.AssemblyInfoInputs.cache
+C:\Users\peter\Documents\GitHub\CSharpPlayground\CSharpPlayground\CharacterGenerator\CharacterGenerator\obj\Debug\net10.0\CharacterGenerator.AssemblyInfo.cs
+C:\Users\peter\Documents\GitHub\CSharpPlayground\CSharpPlayground\CharacterGenerator\CharacterGenerator\obj\Debug\net10.0\CharacterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\GitHub\CSharpPlayground\CSharpPlayground\CharacterGenerator\CharacterGenerator\obj\Debug\net10.0\CharacterGenerator.sourcelink.json
+C:\Users\peter\Documents\GitHub\CSharpPlayground\CSharpPlayground\CharacterGenerator\CharacterGenerator\obj\Debug\net10.0\CharacterGenerator.dll
+C:\Users\peter\Documents\GitHub\CSharpPlayground\CSharpPlayground\CharacterGenerator\CharacterGenerator\obj\Debug\net10.0\refint\CharacterGenerator.dll
+C:\Users\peter\Documents\GitHub\CSharpPlayground\CSharpPlayground\CharacterGenerator\CharacterGenerator\obj\Debug\net10.0\CharacterGenerator.pdb
+C:\Users\peter\Documents\GitHub\CSharpPlayground\CSharpPlayground\CharacterGenerator\CharacterGenerator\obj\Debug\net10.0\CharacterGenerator.genruntimeconfig.cache
+C:\Users\peter\Documents\GitHub\CSharpPlayground\CSharpPlayground\CharacterGenerator\CharacterGenerator\obj\Debug\net10.0\ref\CharacterGenerator.dll
